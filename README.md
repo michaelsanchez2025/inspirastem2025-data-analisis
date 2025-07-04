@@ -78,7 +78,7 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 | Recurso | Tipo | Enlace |
 |---------|------|--------|
-| Tutorial: **Notebook Introducción** | Notebook | `docs/Intro_Python.ipynb` |
+| Tutorial: **Introducción a `numpy`** | Video | <https://www.youtube.com/watch?v=fczpaVSwGCA> |
 | *Python Cheat Sheet* | PDF | <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf> |
 
 > **Sugerencia:** Revisa al menos materiales de Python.
