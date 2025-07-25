@@ -4,7 +4,7 @@
 | **Título** | *Ciencia Computacional y Análisis de Datos* |
 |------------|---------------------------------------------|
 | **Fechas** | Julio 23-25, 2025 |
-| **Instructor** | **Michael Sánchez** — masanche@nrao.edu |
+| **Instructor** | **Michael Sánchez** — michaelsanchez2014@gmail.com |
 
 ---
 
@@ -85,4 +85,13 @@ Este curso de ciencia de datos está diseñado para proporcionar una comprensió
 
 ---
 
-¡Nos vemos pronto en InspiraSTEM 2025!
+¡Un gustazo verlos en InspiraSTEM 2025!
+
+## Contacto Adicional
+
+| Medio | Nombre de Usuario | Enlace |
+|---------|------|--------|
+| email | michaelsanchez2014@gmail.com |  |
+| LinkedIn | Michael Sánchez | <https://www.linkedin.com/in/michael-s%C3%A1nchez-astronomer2002/> |
+| NRAO | Scientific Data Analyst | <https://science.nrao.edu/facilities/alma/ALMApeople/naascstaff> |
+---
